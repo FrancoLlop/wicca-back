@@ -36,6 +36,7 @@ try {
         price:price,
         description: description,
         type: type,
+        element:element,
         images: images
     }})
     return 'El producto a sido creado'
